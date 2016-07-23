@@ -16,8 +16,8 @@ program
 
 const command = (command) => {
     exec(command, (error, stdout, stderr) => {
-    console.log('stdout: ' + stdout);
-    console.log('stderr: ' + stderr);
+    console.log(clc.blue.bold(stdout))
+    //console.log('stderr: ' + stderr);
     if (error !== null)  console.log('exec error: ' + error)
   })
 }
