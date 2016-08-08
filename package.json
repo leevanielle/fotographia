@@ -1,12 +1,12 @@
 {
   "name": "fotographia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A terminal app to convert .cr2 to .jpg extension. Helps to save memory on any Camera's SD card from needing to create duplicate image files. Finally, the small app aims to automate the manual labor of converting the raw images one-by-one. ",
   "main": "index.js",
-  "homepage": "https://github.com/lephanvanielle/fotographia",
+  "homepage": "https://github.com/lekosfmi/fotographia",
   "repository": {
     "type": "git",
-    "url": "git@github.com:lephanvanielle/fotographia.git"
+    "url": "https://github.com/lekosfmi/fotographia"
   },
   "keywords": [
     "cr2",
