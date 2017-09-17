@@ -21,4 +21,4 @@ A terminal app to convert .cr2 to .jpg extension. The app helps to save memory o
  * Version: 1.0
 
 -------------------
-###### Copyright (c) 2016 Vanielle Le
+###### Copyright (c) Vanielle Lee
